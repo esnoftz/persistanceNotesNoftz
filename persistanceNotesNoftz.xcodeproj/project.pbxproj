@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		04892BF82CBFE98D001716FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04892BD62CBFE98B001716FD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04892BDD2CBFE98B001716FD;
+			remoteInfo = persistanceNotesNoftz;
+		};
+		04892C022CBFE98D001716FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04892BD62CBFE98B001716FD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04892BDD2CBFE98B001716FD;
+			remoteInfo = persistanceNotesNoftz;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04892BDE2CBFE98B001716FD /* persistanceNotesNoftz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = persistanceNotesNoftz.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04892BF72CBFE98D001716FD /* persistanceNotesNoftzTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = persistanceNotesNoftzTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04892C012CBFE98D001716FD /* persistanceNotesNoftzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = persistanceNotesNoftzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		04892C092CBFE98D001716FD /* Exceptions for "persistanceNotesNoftz" folder in "persistanceNotesNoftz" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 04892BDD2CBFE98B001716FD /* persistanceNotesNoftz */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		04892BE02CBFE98B001716FD /* persistanceNotesNoftz */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				04892C092CBFE98D001716FD /* Exceptions for "persistanceNotesNoftz" folder in "persistanceNotesNoftz" target */,
+			);
+			path = persistanceNotesNoftz;
+			sourceTree = "<group>";
+		};
+		04892BFA2CBFE98D001716FD /* persistanceNotesNoftzTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = persistanceNotesNoftzTests;
+			sourceTree = "<group>";
+		};
+		04892C042CBFE98D001716FD /* persistanceNotesNoftzUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = persistanceNotesNoftzUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04892BDB2CBFE98B001716FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04892BF42CBFE98D001716FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04892BFE2CBFE98D001716FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04892BD52CBFE98B001716FD = {
+			isa = PBXGroup;
+			children = (
+				04892BE02CBFE98B001716FD /* persistanceNotesNoftz */,
+				04892BFA2CBFE98D001716FD /* persistanceNotesNoftzTests */,
+				04892C042CBFE98D001716FD /* persistanceNotesNoftzUITests */,
+				04892BDF2CBFE98B001716FD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04892BDF2CBFE98B001716FD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04892BDE2CBFE98B001716FD /* persistanceNotesNoftz.app */,
+				04892BF72CBFE98D001716FD /* persistanceNotesNoftzTests.xctest */,
+				04892C012CBFE98D001716FD /* persistanceNotesNoftzUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04892BDD2CBFE98B001716FD /* persistanceNotesNoftz */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04892C0A2CBFE98D001716FD /* Build configuration list for PBXNativeTarget "persistanceNotesNoftz" */;
+			buildPhases = (
+				04892BDA2CBFE98B001716FD /* Sources */,
+				04892BDB2CBFE98B001716FD /* Frameworks */,
+				04892BDC2CBFE98B001716FD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				04892BE02CBFE98B001716FD /* persistanceNotesNoftz */,
+			);
+			name = persistanceNotesNoftz;
+			packageProductDependencies = (
+			);
+			productName = persistanceNotesNoftz;
+			productReference = 04892BDE2CBFE98B001716FD /* persistanceNotesNoftz.app */;
+			productType = "com.apple.product-type.application";
+		};
+		04892BF62CBFE98D001716FD /* persistanceNotesNoftzTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04892C0F2CBFE98D001716FD /* Build configuration list for PBXNativeTarget "persistanceNotesNoftzTests" */;
+			buildPhases = (
+				04892BF32CBFE98D001716FD /* Sources */,
+				04892BF42CBFE98D001716FD /* Frameworks */,
+				04892BF52CBFE98D001716FD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04892BF92CBFE98D001716FD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				04892BFA2CBFE98D001716FD /* persistanceNotesNoftzTests */,
+			);
+			name = persistanceNotesNoftzTests;
+			packageProductDependencies = (
+			);
+			productName = persistanceNotesNoftzTests;
+			productReference = 04892BF72CBFE98D001716FD /* persistanceNotesNoftzTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		04892C002CBFE98D001716FD /* persistanceNotesNoftzUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04892C122CBFE98D001716FD /* Build configuration list for PBXNativeTarget "persistanceNotesNoftzUITests" */;
+			buildPhases = (
+				04892BFD2CBFE98D001716FD /* Sources */,
+				04892BFE2CBFE98D001716FD /* Frameworks */,
+				04892BFF2CBFE98D001716FD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04892C032CBFE98D001716FD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				04892C042CBFE98D001716FD /* persistanceNotesNoftzUITests */,
+			);
+			name = persistanceNotesNoftzUITests;
+			packageProductDependencies = (
+			);
+			productName = persistanceNotesNoftzUITests;
+			productReference = 04892C012CBFE98D001716FD /* persistanceNotesNoftzUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04892BD62CBFE98B001716FD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					04892BDD2CBFE98B001716FD = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					04892BF62CBFE98D001716FD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 04892BDD2CBFE98B001716FD;
+					};
+					04892C002CBFE98D001716FD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 04892BDD2CBFE98B001716FD;
+					};
+				};
+			};
+			buildConfigurationList = 04892BD92CBFE98B001716FD /* Build configuration list for PBXProject "persistanceNotesNoftz" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04892BD52CBFE98B001716FD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 04892BDF2CBFE98B001716FD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04892BDD2CBFE98B001716FD /* persistanceNotesNoftz */,
+				04892BF62CBFE98D001716FD /* persistanceNotesNoftzTests */,
+				04892C002CBFE98D001716FD /* persistanceNotesNoftzUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04892BDC2CBFE98B001716FD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04892BF52CBFE98D001716FD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04892BFF2CBFE98D001716FD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04892BDA2CBFE98B001716FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04892BF32CBFE98D001716FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04892BFD2CBFE98D001716FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04892BF92CBFE98D001716FD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04892BDD2CBFE98B001716FD /* persistanceNotesNoftz */;
+			targetProxy = 04892BF82CBFE98D001716FD /* PBXContainerItemProxy */;
+		};
+		04892C032CBFE98D001716FD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04892BDD2CBFE98B001716FD /* persistanceNotesNoftz */;
+			targetProxy = 04892C022CBFE98D001716FD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		04892C0B2CBFE98D001716FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = persistanceNotesNoftz/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.persistanceNotesNoftz;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04892C0C2CBFE98D001716FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = persistanceNotesNoftz/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.persistanceNotesNoftz;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		04892C0D2CBFE98D001716FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		04892C0E2CBFE98D001716FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04892C102CBFE98D001716FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.persistanceNotesNoftzTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/persistanceNotesNoftz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/persistanceNotesNoftz";
+			};
+			name = Debug;
+		};
+		04892C112CBFE98D001716FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.persistanceNotesNoftzTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/persistanceNotesNoftz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/persistanceNotesNoftz";
+			};
+			name = Release;
+		};
+		04892C132CBFE98D001716FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.persistanceNotesNoftzUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = persistanceNotesNoftz;
+			};
+			name = Debug;
+		};
+		04892C142CBFE98D001716FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.persistanceNotesNoftzUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = persistanceNotesNoftz;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04892BD92CBFE98B001716FD /* Build configuration list for PBXProject "persistanceNotesNoftz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04892C0D2CBFE98D001716FD /* Debug */,
+				04892C0E2CBFE98D001716FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04892C0A2CBFE98D001716FD /* Build configuration list for PBXNativeTarget "persistanceNotesNoftz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04892C0B2CBFE98D001716FD /* Debug */,
+				04892C0C2CBFE98D001716FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04892C0F2CBFE98D001716FD /* Build configuration list for PBXNativeTarget "persistanceNotesNoftzTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04892C102CBFE98D001716FD /* Debug */,
+				04892C112CBFE98D001716FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04892C122CBFE98D001716FD /* Build configuration list for PBXNativeTarget "persistanceNotesNoftzUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04892C132CBFE98D001716FD /* Debug */,
+				04892C142CBFE98D001716FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04892BD62CBFE98B001716FD /* Project object */;
+}
